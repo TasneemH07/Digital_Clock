@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    /* background-image: linear-gradient(to right,white,black); */
+}
+
+.main{
+    height:300px;
+    width:500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 500px;
+    /* background-image: linear-gradient(to right,white,rgb(140, 150, 160)); */
+    background-color: brown;
+    border-radius: 80px;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    /* height:100px;
+    width:400px; */
+    font-size: 40px;
+    font-weight:bolder;
+}
